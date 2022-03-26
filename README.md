@@ -38,7 +38,6 @@
 - ᴀꜱꜱɪꜱᴛᴀɴᴛ ʟɪᴋᴇ ᴜꜱᴇʀʙᴏᴛ
 - ɢᴇᴛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʟɪɴᴋ! (ᴘᴜʙʟɪᴄ ɢʀᴏᴜᴘꜱ ᴏɴʟʏ )
 - ɢᴇᴛ ʟʏʀɪᴄꜱ ᴏꜰ ʏᴏᴜʀ ꜱᴏɴɢ!
-- ʙᴀɴ / ᴜɴʙᴀɴ ᴜꜱᴇʀꜱ ᴀɴᴅ ᴄʜᴇᴄᴋ ᴜꜱᴇʀ ꜱᴛᴀᴛᴜꜱ.
 - ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴍᴇꜱꜱᴀɢᴇꜱ
 - ᴀɪ
 - ᴄᴏᴏʟ ꜱᴛᴀʀᴛꜱ ᴘʟᴜɴɢɪɴꜱ
@@ -48,7 +47,7 @@
 
 ### Deploy To Railway
 
-[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/VENOM-CRAZY/VENOM-MUSIC&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH)
+[![ᴢᴀɪᴅ+ᴅᴇᴘʟᴏʏ+ᴏɴ+ʀᴀɪʟᴡᴀʏ](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/akganthesm/LUCY-MUSIC&envs=STRING_SESSION,BOT_TOKEN,API_ID,API_HASH)
 
 
 
