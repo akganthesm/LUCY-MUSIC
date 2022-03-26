@@ -41,7 +41,7 @@ async def start(client: Client, message: Message):
 [BOT FAST LIKE FAST AS FUCK]
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ OWNER    : [PRK](https://t.me/prkboltipublic)
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩  : [BACKCHODI POINT](https://t.me/lucyhelp)
+┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩  : [SUPPORT GROUP](https://t.me/lucyhelp)
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
