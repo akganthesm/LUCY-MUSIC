@@ -40,10 +40,9 @@ async def start(client: Client, message: Message):
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 [BOT FAST LIKE FAST AS FUCK]
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ OWNER    : [PRK](https://t.me/prkboltipublic)
-┣★ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩  : [SUPPORT GROUP](https://t.me/lucyhelp)
+┣★ 𝘊𝘏𝘈𝘕𝘕𝘌𝘓 : @lucyhelp
+┣★ 𝘎𝘙𝘖𝘜𝘗     : @lucysuppor 
 ┗━━━━━━━━━━━━━━━━━┛
-
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
         reply_markup=InlineKeyboardMarkup(
             [
